@@ -4,11 +4,11 @@
 Analyzing Degree Programs and Enrollment Trends in German Universities
 
 ## Main Question
-1. To help Prospective Students select degree programs in Germany
+1. To assist prospective students in making well-informed decisions when choosing degree programs in Germany
 
 ## Description
 
-To help Prospective Students visualize which courses are offered Public/Private universities in Germany that have tuition fees or not and which field of study has larger student body. Which filed of study demand is increasing and has better scope in Germany.
+Assist prospective students in gaining a clear understanding of course offerings at both public and private universities in Germany, distinguishing between those with tuition fees and those without. Additionally, provide insights into the fields of study that attract a larger student population, highlight the areas where demand is steadily increasing, and identify career prospects with promising opportunities in Germany.
 
 ## Datasources
 
