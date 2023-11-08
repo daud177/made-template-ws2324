@@ -28,9 +28,8 @@ Foreign students in Germany by subject groups and countries of origin
 Master Degree programs offered in Germany
 
 ## Work Packages
-1. Data Acquisition
-2. Data Cleaning
-3. Data Integration
-4. Exploratory data analysis
-5. Visualization and reporting
+1. Add Continous Integration [[#1] (https://github.com/daud177/made-template-ws2324/issues/1)]
+2. Data Cleaning [[#2]] (https://github.com/daud177/made-template-ws2324/issues/2)
+3. Exploratory data analysis [[#3]] (https://github.com/daud177/made-template-ws2324/issues/3)
+5. Visualization and reporting [[#4]] (https://github.com/daud177/made-template-ws2324/issues/4)
 
